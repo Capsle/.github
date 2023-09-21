@@ -5,10 +5,11 @@
 ### To jest zbiornik naszych wspólnych pomysłów i projektów
 #### Także zaglądajcie do tabu Projects lub Repos i znajdziecie czego szukacie!
 A kto chce to może rozbudowywać co tylko mu sie podoba np. to readme 
-<!--
+
 ## Aktualne projekty
 - HackerYeah!
 - SHIP-IT
+<!--
 
 **Here are some ideas to get you started:**
 
