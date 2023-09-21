@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-## WITAJCIE W NASZYM KURWIDOLE 
+## WITAJCIE NA NASZYM KANALE 
 ### To jest zbiornik naszych wspólnych pomysłów i projektów
 #### Także zaglądajcie do tabu Projects lub Repos i znajdziecie czego szukacie!
 A kto chce to może rozbudowywać co tylko mu sie podoba np. to readme 
