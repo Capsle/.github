@@ -9,6 +9,9 @@ A kto chce to może rozbudowywać co tylko mu sie podoba np. to readme
 ## Aktualne projekty
 - HackerYeah!
 - SHIP-IT
+
+## Aktualne rzeczy do roboty:
+- https://github.com/orgs/Capsle/projects
 <!--
 
 **Here are some ideas to get you started:**
